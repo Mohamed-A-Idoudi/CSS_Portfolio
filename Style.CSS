@@ -1,0 +1,25 @@
+/* style my portfolio.html */
+nav{
+    display: flex;
+}
+ul{
+    display: inline-flex;
+}
+li{
+    margin: 20px;
+}
+a{
+    list-style-type: none;
+}
+body{
+ font-family: 'roboto';
+ background-image: linear-gradient(to right top, #ffc000, #fda900, #f99200, #f37b05, #eb6312);
+ color: black;
+}
+.video{
+    width: 750px;
+    height:  500px;
+}
+main{
+    text-align: center;
+}
